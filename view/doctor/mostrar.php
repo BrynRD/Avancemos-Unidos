@@ -50,7 +50,7 @@
 			<div class="logo-header" data-background-color="orange">
 				
 				<a href="../view/admin/admin.php" class="logo">
-					<img src="../assets/img/logo.svg" alt="navbar brand" class="navbar-brand">
+					<img src="../assets/img/logo.png" alt="navbar brand" class="navbar-brand">
 				</a>
 				<button class="navbar-toggler sidenav-toggler ml-auto" type="button" data-toggle="collapse" data-target="collapse" aria-expanded="false" aria-label="Toggle navigation">
 					<span class="navbar-toggler-icon">
@@ -415,14 +415,19 @@
 										<?php include('AgregarModal.php'); ?>
 									</div>
 									<div class="card-tools">
-											<a href="../view/doctor/reporte.php" class="btn btn-info btn-border btn-round btn-sm mr-2">
-												<span class="btn-label">
-													<i class="fa fa-pencil"></i>
-												</span>
-												Export PDF
-											</a>
-											
-										</div>
+    <a href="../view/doctor/reporte.php?export=pdf" class="btn btn-info btn-border btn-round btn-sm mr-2">
+        <span class="btn-label">
+            <i class="fa fa-file-pdf"></i>
+        </span>
+        Export PDF
+    </a>
+											<a href="../view/doctor/reporte.php?export=excel" class="btn btn-success btn-border btn-round btn-sm">
+        <span class="btn-label">
+            <i class="fa fa-file-excel"></i>
+        </span>
+        Export Excel
+    </a>
+</div>
 										<div class="card-body">
 								
 								

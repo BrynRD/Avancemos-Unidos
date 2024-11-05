@@ -16,7 +16,7 @@
 Login
 
 ### Citas Médicas 🥼
-<img src="assets/img/screenshots/CITAS.jpg" alt="Captura 2" width="1000">
+<img src="assets/img/screenshots/CITAS.jpg" alt="Captura 2" width="700">
 Citas Médicas
 
 ### Nueva Cita 📆

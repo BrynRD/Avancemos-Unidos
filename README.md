@@ -12,7 +12,7 @@
 ## Capturas
 
 ### Login 🔒
-<img src="../assets/img/screenshots/LOGIN.jpg" alt="Captura 1" width="400">
+<img src=assets/img/screenshots/LOGIN.jpg alt="Captura 1" width="400">
 Login
 
 ### Citas Médicas 🥼

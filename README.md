@@ -20,7 +20,7 @@ Login
 Citas Médicas
 
 ### Nueva Cita 📆
-<img src="assets/img/screenshots/NUEVACITA.jpg" alt="Captura 3" width="600">
+<img src="assets/img/screenshots/NUEVACITA.jpg" alt="Captura 3" width="900">
 Nueva Cita
 
 ### Exportar Datos 📄📊

@@ -16,11 +16,11 @@
 Login
 
 ### Citas Médicas 🥼
-<img src="assets/img/screenshots/CITAS.jpg" alt="Captura 2" width="600">
+<img src="assets/img/screenshots/CITAS.jpg" alt="Captura 2" width="800">
 Citas Médicas
 
 ### Nueva Cita 📆
-<img src="assets/img/screenshots/NUEVACITA.jpg" alt="Captura 3" width="900">
+<img src="assets/img/screenshots/NUEVACITA.jpg" alt="Captura 3" width="500">
 Nueva Cita
 
 ### Exportar Datos 📄📊
